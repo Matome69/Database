@@ -1,0 +1,14 @@
+C:\Users\matom\Desktop\project\project\bin\Debug\Students.mdf
+C:\Users\matom\Desktop\project\project\bin\Debug\Students_log.ldf
+C:\Users\matom\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\matom\Desktop\project\project\bin\Debug\project.exe
+C:\Users\matom\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\matom\Desktop\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\matom\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\matom\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\matom\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\matom\Desktop\project\project\obj\Debug\project.exe
+C:\Users\matom\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\matom\Desktop\project\project\obj\Debug\project.Form2.resources
+C:\Users\matom\Desktop\project\project\obj\Debug\project.Form3.resources
+C:\Users\matom\Desktop\project\project\obj\Debug\project.Form4.resources
